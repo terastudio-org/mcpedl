@@ -496,8 +496,4 @@ This is an unofficial API for educational purposes. Please respect the terms of 
 
 ## Author
 
-MiniMax Agent
-
----
-
-**Note**: This improved version maintains full compatibility with the original API while providing significant enhancements in reliability, performance, and developer experience.
+terastudio-org
