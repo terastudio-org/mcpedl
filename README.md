@@ -1,6 +1,5 @@
-# Improved MCPEDL API
+# MCPEDL API
 
-[![npm version](https://img.shields.io/npm/v/improved-mcpedl-api.svg)](https://www.npmjs.com/package/improved-mcpedl-api)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)](https://eslint.org/)
@@ -21,15 +20,15 @@ A comprehensive and enhanced Node.js API for accessing MCPEDL.org content. This 
 ## Installation
 
 ```bash
-npm install improved-mcpedl-api
+npm install github:terastudio-org/mcpedl
 # or
-yarn add improved-mcpedl-api
+yarn add github:terastudio-org/mcpedl
 ```
 
 ## Quick Start
 
 ```typescript
-import { McpedlAPI } from 'improved-mcpedl-api';
+import { McpedlAPI } from 'mcpedl';
 
 const mc = new McpedlAPI();
 
